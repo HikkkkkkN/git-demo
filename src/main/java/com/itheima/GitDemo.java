@@ -5,5 +5,6 @@ public class GitDemo {
         System.out.println(1);
         System.out.println("github提交");
         System.out.println("dev提交");
+        System.out.println(" github dev提交");
     }
 }
